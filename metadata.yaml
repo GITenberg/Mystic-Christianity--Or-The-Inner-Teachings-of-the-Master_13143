@@ -1,0 +1,36 @@
+_repo: Mystic-Christianity--Or-The-Inner-Teachings-of-the-Master_13143
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Panchadasi, Swami
+    - Ramacharaka, Yogi
+    - Vishita, Bhakta
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+description: ''
+gutenberg_issued: '2004-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mysticism'
+- !lcsh 'Yoga'
+- !lcc 'BF'
+- !lcsh 'Jesus Christ -- Miscellanea'
+title: Mystic Christianity; Or, The Inner Teachings of the Master
+url: http://www.gutenberg.org/ebooks/13143
